@@ -1,0 +1,36 @@
+.Style1{
+    color:blueviolet;
+    font-style: italic;
+}
+.image{
+    float: right;
+    width: 320px;
+}
+.topic{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 150px;
+}
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+td,th{
+    text-align: left;
+    padding: 16px;
+}
+footer{
+    text-align: center;
+    background-color: orange;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    bottom: 0%;
+    padding: 3px;
+    position: fixed;
+    width: 100%;
+    left: 0%;
+}
+body{
+    background-color: #e6f3ff;
+    padding: 12%;
+}
